@@ -1,0 +1,100 @@
+1,A01,Millet,1Kg,11,True
+2,A02,Millet,5Kg,55,True
+3,A03,Pineapple,1Kg,47,True
+4,A04,Pineapple,5Kg,235,True
+5,A05,Grains,1Kg,36,True
+6,A06,Grains,5Kg,180,True
+7,A07,Bananas,1Kg,40,True
+8,A08,Bananas,5Kg,200,True
+9,A09,Rice,1Kg,10,True
+10,A010,Rice,5Kg,50,True
+11,A011,Sugar,1Kg,39,True
+12,A012,Sugar,5Kg,195,True
+13,A013,Vegetables,1Kg,22,True
+14,A014,Vegetables,5Kg,110,True
+15,A015,Atta,1Kg,14,True
+16,A016,Atta,5Kg,70,True
+17,A017,Spices,1Kg,45,True
+18,A018,Spices,5Kg,225,True
+19,A019,Pulses,1Kg,45,True
+20,A020,Pulses,5Kg,225,True
+21,A021,Nuts,1Kg,14,True
+22,A022,Nuts,5Kg,70,True
+23,A023,Cashew,1Kg,24,True
+24,A024,Cashew,5Kg,120,True
+25,A025,Salt,1Kg,35,True
+26,A026,Salt,5Kg,175,True
+27,A027,Detergents,1Kg,15,True
+28,A028,Detergents,5Kg,75,True
+29,A029,Pet Foods,1Kg,21,True
+30,A030,Pet Foods,5Kg,105,True
+31,A031,Seeds,1Kg,29,True
+32,A032,Seeds,5Kg,145,True
+33,A033,Chocolates,1Kg,39,True
+34,A034,Chocolates,5Kg,195,True
+35,A035,Oats,1Kg,33,True
+36,A036,Oats,5Kg,165,True
+37,A037,Energy Bar,1Kg,27,True
+38,A038,Energy Bar,5Kg,135,True
+39,A039,Butter,1Kg,50,True
+40,A040,Butter,5Kg,250,True
+41,A041,Cheese,1Kg,43,True
+42,A042,Cheese,5Kg,215,True
+43,A043,Yogurt,1Kg,47,True
+44,A044,Yogurt,5Kg,235,True
+45,A045,Paneer,1Kg,34,True
+46,A046,Paneer,5Kg,170,True
+47,A047,Almonds,1Kg,22,True
+48,A048,Almonds,5Kg,110,True
+49,A049,Pistah,1Kg,21,True
+50,A050,Pistah,5Kg,105,True
+51,A051,Badam,1Kg,33,True
+52,A052,Badam,5Kg,165,True
+53,A053,Tomatoes,1Kg,45,True
+54,A054,Tomatoes,5Kg,225,True
+55,A055,Potatoes,1Kg,41,True
+56,A056,Potatoes,5Kg,205,True
+57,A057,Seasoning,1Kg,32,True
+58,A058,Seasoning,5Kg,160,True
+59,A059,Herbs,1Kg,17,True
+60,A060,Herbs,5Kg,85,True
+61,A061,Meat,1Kg,20,True
+62,A062,Meat,5Kg,100,True
+63,A063,Maize,1Kg,16,True
+64,A064,Maize,5Kg,80,True
+65,A065,Groundnuts,1Kg,27,True
+66,A066,Groundnuts,5Kg,135,True
+67,A067,Beef,1Kg,14,True
+68,A068,Beef,5Kg,70,True
+69,A069,Tofu,1Kg,14,True
+70,A070,Tofu,5Kg,70,True
+71,A071,Citrus Fruit,1Kg,41,True
+72,A072,Citrus Fruit,5Kg,205,True
+73,A073,Peas,1Kg,40,True
+74,A074,Peas,5Kg,200,True
+75,A075,Wheat,1Kg,10,True
+76,A076,Wheat,5Kg,50,True
+77,A077,Onions,1Kg,40,True
+78,A078,Onions,5Kg,200,True
+79,A079,Flour,1Kg,50,True
+80,A080,Flour,5Kg,250,True
+81,A081,Dates,1Kg,37,True
+82,A082,Dates,5Kg,185,True
+83,A083,Raisins,1Kg,29,True
+84,A084,Raisins,5Kg,145,True
+85,A085,Dried Fruits,1Kg,18,True
+86,A086,Dried Fruits,5Kg,90,True
+87,A087,Pumpkin Seeds,1Kg,44,True
+88,A088,Pumpkin Seeds,5Kg,220,True
+89,A089,Chia Seeds,1Kg,23,True
+90,A090,Chia Seeds,5Kg,115,True
+91,A091,Walnuts,1Kg,16,True
+92,A092,Walnuts,5Kg,80,True
+93,A093,Dal,1Kg,29,True
+94,A094,Dal,5Kg,145,True
+95,A095,Roasted Peanut,1Kg,34,True
+96,A096,Roasted Peanut,5Kg,170,True
+97,A097,Soya,1Kg,22,True
+98,A098,Soya,5Kg,110,True
+99,A099,Beans,1Kg,41,True
+100,A0100,Beans,5Kg,205,True
